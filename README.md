@@ -1,1 +1,1 @@
-# Quantium_Intedrnship_Tasks
+# Quantium_Internship_Tasks
